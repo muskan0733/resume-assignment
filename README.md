@@ -1,15 +1,38 @@
-#chaiAurHTML
-A simple HTML Resume Page built for the web dev cohort 2026 assignments
-#project overview
-This project demonstrates a clean and 
-semantic HTML only resume layout ,correct 
-usage of HTML tags.
-no css framsworks or java script are used.
+# HTML Resume Website
 
+A simple HTML-only Resume Website created as part of the ChaiCode Web Development assignment.
 
+---
 
+## 📌 Project Overview
 
+This project demonstrates the use of clean and semantic HTML to build a single-page resume website.
+No CSS or JavaScript has been used, as per assignment instructions.
 
-GitHub Repo: https://github.com/muskan0733/resume-assignment
-Live Website: https://muskan0733.github.io/resume-assignment/
+---
 
+## 👀 Evaluation & Viewing Options
+
+### 🔹 Live Website (Recommended)
+View the resume directly in the browser:
+
+https://muskan0733.github.io/resume-assignment/
+
+---
+
+### 🔹 Source Code (GitHub Repository)
+Access the complete source code here:
+
+https://github.com/muskan0733/resume-assignment
+
+---
+
+## 🛠️ Technologies Used
+- HTML5 only
+
+---
+
+## ✅ Assignment Status
+- ✔ Public GitHub Repository
+- ✔ Hosted using GitHub Pages
+- ✔ Output Screenshot included
