@@ -32,7 +32,3 @@ https://github.com/muskan0733/resume-assignment
 
 ---
 
-## ✅ Assignment Status
-- ✔ Public GitHub Repository
-- ✔ Hosted using GitHub Pages
-- ✔ Output Screenshot included
