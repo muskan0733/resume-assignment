@@ -27,5 +27,5 @@ https://github.com/muskan0733/resume-assignment
 
 ---
 ## output screenshort
-![Resume Website Output] (Screenshot (1).png)
+![Resume Website Output] (Screenshot.png)
 
