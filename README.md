@@ -26,5 +26,6 @@ Access the complete source code here:
 https://github.com/muskan0733/resume-assignment
 
 ---
-
+## output screenshort
+![Resume Website Output] (Screenshot (1).png)
 
