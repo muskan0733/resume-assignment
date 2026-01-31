@@ -27,8 +27,4 @@ https://github.com/muskan0733/resume-assignment
 
 ---
 
-## 🛠️ Technologies Used
-- HTML5 only
-
----
 
