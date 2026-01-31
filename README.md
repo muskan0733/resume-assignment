@@ -19,14 +19,17 @@ View the resume directly in the browser:
 https://muskan0733.github.io/resume-assignment/
 
 ---
-<img width="1080" height="1920" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/6fe2fa25-eb05-4be2-8980-7f7c2f11e009" />
+
 
 ### 🔹 Source Code (GitHub Repository)
-Access the complete source code here:
+ the complete source code here:
 
 https://github.com/muskan0733/resume-assignment
 
 ---
+
+
 ## output screenshort
-![Resume Website Output] screenshot.png
+Access<img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/fef31376-4d01-40ac-82d5-0e28c1b133ae" />
+
 
